@@ -12,9 +12,7 @@
 
 - Image dari aplikasi client dapat diakses ke dalam dockerhub 
 
-  []: https://hub.docker.com/repository/docker/ahmadirfaan/gotodoapp-client	"Docker Hub Aplikasi Client"
-
-  
+  [Docker Hub Aplikasi Client](https://hub.docker.com/repository/docker/ahmadirfaan/gotodoapp-client)
 
 - Untuk menjalankan sebuah aplikasi client ini dibutuhkan environment :
   **REACT_APP_API**  : environment ini mendefinisikan sebuah endpoint dari server
@@ -25,9 +23,7 @@
 
 - Image dari aplikasi server dapat diakses 
 
-  []: https://hub.docker.com/repository/docker/ahmadirfaan/gotodoapp-server	"Docker Hub Aplikasi Server"
-
-  
+  [Docker Hub Aplikasi Server](https://hub.docker.com/repository/docker/ahmadirfaan/gotodoapp-server)
 
 - Dibutuhkan beberapa *environment* agar aplikasi dapat berjalan dengan normal :
   **DB_URI** : environment ini mendefinisikan sebuah uri dari database mongo****
